@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #  Remaining Useful Life (RUL) Prediction – NASA Turbofan Engines
 
 ##  Project Overview  
@@ -76,3 +77,4 @@ pip install -r requirements.txt
 python data_preprocessing.py
 python train_model.py
 python explain_model.py
+=======
